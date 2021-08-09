@@ -1,5 +1,5 @@
 <plugins>
-    <plugin id="io.wiretest.idea" url="https://wiretest.io/idea/wiretest-plugin-1.0.2.zip" version="1.0.2">
+    <plugin id="io.wiretest.idea" url="https://wiretest.io/idea/wiretest-plugin-1.0.3.zip" version="1.0.3">
         <idea-version since-build="191" until-build="333" />
     </plugin>
 </plugins>
