@@ -1,5 +1,7 @@
 <plugins>
     <plugin id="io.wiretest.idea" url="https://wiretest.io/idea/wiretest-plugin-1.0.3.zip" version="1.0.3">
+        <name>WireTest Files</name>
+        <description>WireTest files syntax highlighting plugin</description>
         <idea-version since-build="191" until-build="333" />
     </plugin>
 </plugins>
